@@ -1,0 +1,163 @@
+2025-08-26T01:02:24+05:30 [error]: Error checking login button: Error: expect.toBeVisible: Error: strict mode violation: getByTitle('SugarCRM') resolved to 2 elements:
+    1) <a rel="tooltip" target="_blank" data-bs-placement="right" title="Go to SugarCRM.com" href="https://www.sugarcrm.com" class="sidebar-nav-item-btn absolute bg-transparent h-full rtl:text-right text-base  w-full">…</a> aka getByRole('link', { name: '' })
+    2) <a href="#Home" title="SugarCRM" class="logo ml-2.5 p-0 max-h-[1.75rem] max-w-[12.5rem]">…</a> aka getByRole('link', { name: 'SugarCRM' })
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('SugarCRM')[22m
+
+2025-08-26T01:30:17+05:30 [error]: Error checking login button: Error: expect.toBeVisible: Error: strict mode violation: getByTitle('SugarCRM') resolved to 2 elements:
+    1) <a rel="tooltip" target="_blank" data-bs-placement="right" title="Go to SugarCRM.com" href="https://www.sugarcrm.com" class="sidebar-nav-item-btn absolute bg-transparent h-full rtl:text-right text-base  w-full">…</a> aka getByRole('link', { name: '' })
+    2) <a href="#Home" title="SugarCRM" class="logo ml-2.5 p-0 max-h-[1.75rem] max-w-[12.5rem]">…</a> aka getByRole('link', { name: 'SugarCRM' })
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('SugarCRM')[22m
+
+2025-08-26T01:52:43+05:30 [error]: Error checking login button: Error: expect.toBeVisible: Error: strict mode violation: getByTitle('SugarCRM') resolved to 2 elements:
+    1) <a rel="tooltip" target="_blank" data-bs-placement="right" title="Go to SugarCRM.com" href="https://www.sugarcrm.com" class="sidebar-nav-item-btn absolute bg-transparent h-full rtl:text-right text-base  w-full">…</a> aka getByRole('link', { name: '' })
+    2) <a href="#Home" title="SugarCRM" class="logo ml-2.5 p-0 max-h-[1.75rem] max-w-[12.5rem]">…</a> aka getByRole('link', { name: 'SugarCRM' })
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('SugarCRM')[22m
+
+2025-08-26T02:03:15+05:30 [error]: Error checking login button: Error: expect.toBeVisible: Error: strict mode violation: getByTitle('SugarCRM') resolved to 2 elements:
+    1) <a rel="tooltip" target="_blank" data-bs-placement="right" title="Go to SugarCRM.com" href="https://www.sugarcrm.com" class="sidebar-nav-item-btn absolute bg-transparent h-full rtl:text-right text-base  w-full">…</a> aka getByRole('link', { name: '' })
+    2) <a href="#Home" title="SugarCRM" class="logo ml-2.5 p-0 max-h-[1.75rem] max-w-[12.5rem]">…</a> aka getByRole('link', { name: 'SugarCRM' })
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('SugarCRM')[22m
+
+2025-08-26T02:09:34+05:30 [error]: Error checking login button: Error: expect.toBeVisible: Error: strict mode violation: getByTitle('SugarCRM') resolved to 2 elements:
+    1) <a rel="tooltip" target="_blank" data-bs-placement="right" title="Go to SugarCRM.com" href="https://www.sugarcrm.com" class="sidebar-nav-item-btn absolute bg-transparent h-full rtl:text-right text-base  w-full">…</a> aka getByRole('link', { name: '' })
+    2) <a href="#Home" title="SugarCRM" class="logo ml-2.5 p-0 max-h-[1.75rem] max-w-[12.5rem]">…</a> aka getByRole('link', { name: 'SugarCRM' })
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('SugarCRM')[22m
+
+2025-08-26T02:10:15+05:30 [error]: Error checking login button: Error: expect.toBeVisible: Error: strict mode violation: getByTitle('SugarCRM') resolved to 2 elements:
+    1) <a rel="tooltip" target="_blank" data-bs-placement="right" title="Go to SugarCRM.com" href="https://www.sugarcrm.com" class="sidebar-nav-item-btn absolute bg-transparent h-full rtl:text-right text-base  w-full">…</a> aka getByRole('link', { name: '' })
+    2) <a href="#Home" title="SugarCRM" class="logo ml-2.5 p-0 max-h-[1.75rem] max-w-[12.5rem]">…</a> aka getByRole('link', { name: 'SugarCRM' })
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('SugarCRM')[22m
+
+2025-08-26T02:20:21+05:30 [error]: Error checking login button: Error: expect.toBeVisible: Error: strict mode violation: getByTitle('SugarCRM') resolved to 2 elements:
+    1) <a rel="tooltip" target="_blank" data-bs-placement="right" title="Go to SugarCRM.com" href="https://www.sugarcrm.com" class="sidebar-nav-item-btn absolute bg-transparent h-full rtl:text-right text-base  w-full">…</a> aka getByRole('link', { name: '' })
+    2) <a href="#Home" title="SugarCRM" class="logo ml-2.5 p-0 max-h-[1.75rem] max-w-[12.5rem]">…</a> aka getByRole('link', { name: 'SugarCRM' })
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('SugarCRM')[22m
+
+2025-08-26T02:28:51+05:30 [error]: Error checking login button: Error: expect.toBeVisible: Error: strict mode violation: getByTitle('SugarCRM') resolved to 2 elements:
+    1) <a rel="tooltip" target="_blank" data-bs-placement="right" title="Go to SugarCRM.com" href="https://www.sugarcrm.com" class="sidebar-nav-item-btn absolute bg-transparent h-full rtl:text-right text-base  w-full">…</a> aka getByRole('link', { name: '' })
+    2) <a href="#Home" title="SugarCRM" class="logo ml-2.5 p-0 max-h-[1.75rem] max-w-[12.5rem]">…</a> aka getByRole('link', { name: 'SugarCRM' })
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('SugarCRM')[22m
+
+2025-08-26T20:30:57+05:30 [error]: Error checking login button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m failed
+
+Locator:  getByTitle('SugarCRM')
+Expected: visible
+Received: hidden
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('SugarCRM')[22m
+[2m    7 × locator resolved to <a href="#Home" title="SugarCRM" class="logo ml-2.5 p-0 max-h-[1.75rem] max-w-[12.5rem]">…</a>[22m
+[2m      - unexpected value "hidden"[22m
+
+2025-08-26T20:33:02+05:30 [error]: Error checking login button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m failed
+
+Locator:  getByTitle('SugarCRM')
+Expected: visible
+Received: hidden
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('SugarCRM')[22m
+[2m    5 × locator resolved to <a href="#Home" title="SugarCRM" class="logo ml-2.5 p-0 max-h-[1.75rem] max-w-[12.5rem]">…</a>[22m
+[2m      - unexpected value "hidden"[22m
+
+2025-08-26T23:05:16+05:30 [error]: Navigation to login page failed: Error: page.goto: Test timeout of 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://sugardev.captiveresources.com/", waiting until "domcontentloaded"[22m
+
+2025-08-26T23:09:11+05:30 [error]: Navigation to login page failed: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m failed
+
+Locator:  getByRole('textbox', { name: 'username' })
+Expected: visible
+Received: <element(s) not found>
+Timeout:  5000ms
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 5000ms[22m
+[2m  - waiting for getByRole('textbox', { name: 'username' })[22m
+
+2025-08-26T23:09:59+05:30 [error]: Navigation to login page failed: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m failed
+
+Locator:  getByRole('textbox', { name: 'username' })
+Expected: visible
+Received: <element(s) not found>
+Timeout:  5000ms
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 5000ms[22m
+[2m  - waiting for getByRole('textbox', { name: 'username' })[22m
+
+2025-08-27T13:32:55+05:30 [error]: Error checking login button: Error: expect.toBeVisible: Error: strict mode violation: getByTitle('SugarCRM') resolved to 2 elements:
+    1) <a rel="tooltip" target="_blank" data-bs-placement="right" title="Go to SugarCRM.com" href="https://www.sugarcrm.com" class="sidebar-nav-item-btn absolute bg-transparent h-full rtl:text-right text-base  w-full">…</a> aka getByRole('link', { name: '' })
+    2) <a href="#Home" title="SugarCRM" class="logo ml-2.5 p-0 max-h-[1.75rem] max-w-[12.5rem]">…</a> aka getByRole('link', { name: 'SugarCRM' })
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('SugarCRM')[22m
+
+2025-08-27T14:10:35+05:30 [error]: Failed to click organization CaseID link: Error: locator.textContent: Test timeout of 30000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('link', { name: 'PRCaseID_2025827_14104', exact: true })[22m
+
+2025-08-27T14:31:31+05:30 [error]: Failed to click on expand button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m failed
+
+Locator:  getByRole('button', { name: 'Open', exact: true })
+Expected: visible
+Received: <element(s) not found>
+Timeout:  5000ms
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 5000ms[22m
+[2m  - waiting for getByRole('button', { name: 'Open', exact: true })[22m
+
+2025-08-27T14:35:02+05:30 [error]: Failed to click on expand button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m failed
+
+Locator:  getByRole('button', { name: 'Open', exact: true })
+Expected: visible
+Received: <element(s) not found>
+Timeout:  5000ms
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 5000ms[22m
+[2m  - waiting for getByRole('button', { name: 'Open', exact: true })[22m
+
+2025-08-27T14:35:49+05:30 [error]: Failed to click on expand button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m failed
+
+Locator:  getByRole('button', { name: 'Open', exact: true })
+Expected: visible
+Received: <element(s) not found>
+Timeout:  5000ms
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 5000ms[22m
+[2m  - waiting for getByRole('button', { name: 'Open', exact: true })[22m
+
+2025-08-27T14:40:06+05:30 [error]: Failed to click on expand button: Error: locator.waitFor: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('Open') to be visible[22m
+

@@ -35,8 +35,8 @@ export default defineConfig({
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
     /* Base URL to use in actions like `await page.goto('/')`. */
-    baseURL: "https://sugardev.captiveresources.com/",
-    navigationTimeout: 60000,
+    baseURL: "https://sugardev.captiveresources.com",
+    navigationTimeout: 120000,
     ignoreHTTPSErrors: true,
     screenshot: "on",
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */

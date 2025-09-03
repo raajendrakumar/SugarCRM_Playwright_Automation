@@ -4139,3 +4139,222 @@ Call log:
 2025-09-03T14:00:34+05:30 [info]: Clicked on save submission details
 2025-09-03T14:00:34+05:30 [info]: Clicked on profile button
 2025-09-03T14:00:34+05:30 [info]: Clicked on logout option
+2025-09-03T14:55:15+05:30 [info]: Navigate to the SugerCRM URL
+2025-09-03T14:55:18+05:30 [info]: Filled username
+2025-09-03T14:55:18+05:30 [info]: Filled password
+2025-09-03T14:55:18+05:30 [info]: SugarCRM login completed
+2025-09-03T14:55:18+05:30 [info]: Auth state is saved
+2025-09-03T14:55:20+05:30 [info]: Service title is visible
+2025-09-03T14:55:29+05:30 [info]: Expand button clicked
+2025-09-03T14:55:30+05:30 [info]: Hovered on Organizations button
+2025-09-03T14:55:31+05:30 [info]: Clicked on Create organization button
+2025-09-03T14:55:31+05:30 [info]: Entered company name
+2025-09-03T14:55:32+05:30 [info]: Entered additional nameCaptive Resources Pvt Ltd
+2025-09-03T14:55:32+05:30 [info]: Clicked on address tab
+2025-09-03T14:55:32+05:30 [info]: Entered Physical Street
+2025-09-03T14:55:32+05:30 [info]: Entered physical city
+2025-09-03T14:55:32+05:30 [info]: Entered physical state
+2025-09-03T14:55:32+05:30 [info]: Entered physical post
+2025-09-03T14:55:32+05:30 [info]: Clicked on organazation save button
+2025-09-03T14:55:32+05:30 [info]: Entered company name
+2025-09-03T14:55:35+05:30 [info]: Clicked on CaseID: Org_Name_202593_14556
+2025-09-03T14:55:36+05:30 [info]: Hovered on submission Tab
+2025-09-03T14:55:48+05:30 [info]: Clicked on submission add button
+2025-09-03T14:55:48+05:30 [info]: Entered submission name
+2025-09-03T14:55:48+05:30 [info]: Clicked on Captive Name DD
+2025-09-03T14:55:50+05:30 [info]: Entered Captive Name DD
+2025-09-03T14:55:50+05:30 [info]: Clicked on Captive Name DD
+2025-09-03T14:55:51+05:30 [info]: Entered secondary program executive 
+2025-09-03T14:55:51+05:30 [info]: Clicked on Captive Name DD
+2025-09-03T14:55:52+05:30 [info]: Entered program Manager 
+2025-09-03T14:55:52+05:30 [info]: Clicked on Secondary Manager DD
+2025-09-03T14:55:53+05:30 [info]: Entered Secondary Manager
+2025-09-03T14:55:53+05:30 [info]: Entered received Submission Date: 05/16/2021
+2025-09-03T14:55:54+05:30 [info]: Clicked on broker dd
+2025-09-03T14:55:55+05:30 [info]: Entered broker dropdown
+2025-09-03T14:55:55+05:30 [info]: Clicked on Business Development Executive dropdown
+2025-09-03T14:55:56+05:30 [info]: Entered Business Development Executive
+2025-09-03T14:55:56+05:30 [info]: Clicked on Captive Executive dropdown
+2025-09-03T14:55:57+05:30 [info]: Searched captiveExecutive: Megan Henning
+2025-09-03T14:55:58+05:30 [info]: Clicked on Associate Captive Executive dropdown
+2025-09-03T14:56:00+05:30 [info]: Searched  Associate Captive Executive: Paul Gamperl
+2025-09-03T14:56:00+05:30 [info]: Clicked on Program Coordinator dropdown
+2025-09-03T14:56:01+05:30 [info]: Searched  Program Coordinator: Justin Wiener
+2025-09-03T14:56:01+05:30 [info]: Entered Effective Date:05/06/2021
+2025-09-03T14:56:01+05:30 [info]: Clicked on Line Of Business dropdown
+2025-09-03T14:56:01+05:30 [info]: Selected Line Of Business: Casualty
+2025-09-03T14:56:01+05:30 [info]: Selected 'Yes' in Broker Contract Account dropdown
+2025-09-03T14:56:02+05:30 [info]: Selected coverage option: GL
+2025-09-03T14:56:02+05:30 [info]: Selected coverage option: WC
+2025-09-03T14:56:02+05:30 [info]: Selected coverage option: AL
+2025-09-03T14:56:02+05:30 [info]: Selected coverage option: APD
+2025-09-03T14:56:03+05:30 [info]: Selected Mid Term Deal: Yes
+2025-09-03T14:56:03+05:30 [info]: Clicked on save submission details
+2025-09-03T14:56:03+05:30 [info]: Clicked on profile button
+2025-09-03T14:56:03+05:30 [info]: Clicked on logout option
+2025-09-03T14:58:02+05:30 [info]: Navigate to the SugerCRM URL
+2025-09-03T14:58:03+05:30 [info]: Filled username
+2025-09-03T14:58:03+05:30 [info]: Filled password
+2025-09-03T14:58:03+05:30 [info]: SugarCRM login completed
+2025-09-03T14:58:03+05:30 [info]: Auth state is saved
+2025-09-03T14:58:03+05:30 [info]: Service title is visible
+2025-09-03T14:58:12+05:30 [info]: Expand button clicked
+2025-09-03T14:58:55+05:30 [info]: Navigate to the SugerCRM URL
+2025-09-03T14:58:58+05:30 [info]: Filled username
+2025-09-03T14:58:58+05:30 [info]: Filled password
+2025-09-03T14:58:58+05:30 [info]: SugarCRM login completed
+2025-09-03T14:58:58+05:30 [info]: Auth state is saved
+2025-09-03T14:58:59+05:30 [info]: Service title is visible
+2025-09-03T14:59:08+05:30 [info]: Expand button clicked
+2025-09-03T14:59:10+05:30 [info]: Hovered on Organizations button
+2025-09-03T14:59:10+05:30 [info]: Clicked on Create organization button
+2025-09-03T14:59:10+05:30 [info]: Entered company name
+2025-09-03T14:59:10+05:30 [info]: Entered additional nameCaptive Resources Pvt Ltd
+2025-09-03T14:59:10+05:30 [info]: Clicked on address tab
+2025-09-03T14:59:11+05:30 [info]: Entered Physical Street
+2025-09-03T14:59:11+05:30 [info]: Entered physical city
+2025-09-03T14:59:11+05:30 [info]: Entered physical state
+2025-09-03T14:59:11+05:30 [info]: Entered physical post
+2025-09-03T14:59:11+05:30 [info]: Clicked on organazation save button
+2025-09-03T14:59:11+05:30 [info]: Entered company name
+2025-09-03T14:59:14+05:30 [info]: Clicked on CaseID: Org_Name_202593_145845
+2025-09-03T14:59:15+05:30 [info]: Hovered on submission Tab
+2025-09-03T14:59:28+05:30 [info]: Clicked on submission add button
+2025-09-03T14:59:28+05:30 [info]: Entered submission name
+2025-09-03T14:59:28+05:30 [info]: Clicked on Captive Name DD
+2025-09-03T14:59:30+05:30 [info]: Entered Captive Name DD
+2025-09-03T14:59:30+05:30 [info]: Clicked on Captive Name DD
+2025-09-03T14:59:31+05:30 [info]: Entered secondary program executive 
+2025-09-03T14:59:31+05:30 [info]: Clicked on Captive Name DD
+2025-09-03T14:59:33+05:30 [info]: Entered program Manager 
+2025-09-03T14:59:33+05:30 [info]: Clicked on Secondary Manager DD
+2025-09-03T14:59:34+05:30 [info]: Entered Secondary Manager
+2025-09-03T14:59:34+05:30 [info]: Entered received Submission Date: 05/16/2021
+2025-09-03T14:59:35+05:30 [info]: Clicked on broker dd
+2025-09-03T14:59:36+05:30 [info]: Entered broker dropdown
+2025-09-03T14:59:36+05:30 [info]: Clicked on Business Development Executive dropdown
+2025-09-03T14:59:37+05:30 [info]: Entered Business Development Executive
+2025-09-03T14:59:37+05:30 [info]: Clicked on Captive Executive dropdown
+2025-09-03T14:59:39+05:30 [info]: Searched captiveExecutive: Megan Henning
+2025-09-03T14:59:39+05:30 [info]: Clicked on Associate Captive Executive dropdown
+2025-09-03T14:59:40+05:30 [info]: Searched  Associate Captive Executive: Paul Gamperl
+2025-09-03T14:59:40+05:30 [info]: Clicked on Program Coordinator dropdown
+2025-09-03T14:59:41+05:30 [info]: Searched  Program Coordinator: Justin Wiener
+2025-09-03T14:59:41+05:30 [info]: Entered Effective Date:05/06/2021
+2025-09-03T14:59:41+05:30 [info]: Clicked on Line Of Business dropdown
+2025-09-03T14:59:41+05:30 [info]: Selected Line Of Business: Casualty
+2025-09-03T14:59:41+05:30 [info]: Selected 'Yes' in Broker Contract Account dropdown
+2025-09-03T14:59:42+05:30 [info]: Selected coverage option: GL
+2025-09-03T14:59:42+05:30 [info]: Selected coverage option: WC
+2025-09-03T14:59:42+05:30 [info]: Selected coverage option: AL
+2025-09-03T14:59:43+05:30 [info]: Selected coverage option: APD
+2025-09-03T14:59:43+05:30 [info]: Selected Mid Term Deal: Yes
+2025-09-03T14:59:43+05:30 [info]: Clicked on save submission details
+2025-09-03T14:59:43+05:30 [info]: Clicked on profile button
+2025-09-03T14:59:43+05:30 [info]: Clicked on logout option
+2025-09-03T15:01:59+05:30 [info]: Navigate to the SugerCRM URL
+2025-09-03T15:01:59+05:30 [info]: Filled username
+2025-09-03T15:01:59+05:30 [info]: Filled password
+2025-09-03T15:01:59+05:30 [info]: SugarCRM login completed
+2025-09-03T15:01:59+05:30 [info]: Auth state is saved
+2025-09-03T15:02:00+05:30 [info]: Service title is visible
+2025-09-03T15:02:09+05:30 [info]: Expand button clicked
+2025-09-03T15:02:11+05:30 [info]: Hovered on Organizations button
+2025-09-03T15:02:11+05:30 [info]: Clicked on Create organization button
+2025-09-03T15:02:11+05:30 [info]: Entered company name
+2025-09-03T15:02:11+05:30 [info]: Entered additional nameCaptive Resources Pvt Ltd
+2025-09-03T15:02:11+05:30 [info]: Clicked on address tab
+2025-09-03T15:02:11+05:30 [info]: Entered Physical Street
+2025-09-03T15:02:12+05:30 [info]: Entered physical city
+2025-09-03T15:02:12+05:30 [info]: Entered physical state
+2025-09-03T15:02:12+05:30 [info]: Entered physical post
+2025-09-03T15:02:12+05:30 [info]: Clicked on organazation save button
+2025-09-03T15:02:12+05:30 [info]: Entered company name
+2025-09-03T15:02:14+05:30 [info]: Clicked on CaseID: Org_Name_202593_15148
+2025-09-03T15:02:15+05:30 [info]: Hovered on submission Tab
+2025-09-03T15:02:27+05:30 [info]: Clicked on submission add button
+2025-09-03T15:02:27+05:30 [info]: Entered submission name
+2025-09-03T15:02:27+05:30 [info]: Clicked on Captive Name DD
+2025-09-03T15:02:29+05:30 [info]: Entered Captive Name DD
+2025-09-03T15:02:29+05:30 [info]: Clicked on Captive Name DD
+2025-09-03T15:02:30+05:30 [info]: Entered secondary program executive 
+2025-09-03T15:02:30+05:30 [info]: Clicked on Captive Name DD
+2025-09-03T15:02:32+05:30 [info]: Entered program Manager 
+2025-09-03T15:02:32+05:30 [info]: Clicked on Secondary Manager DD
+2025-09-03T15:02:33+05:30 [info]: Entered Secondary Manager
+2025-09-03T15:02:33+05:30 [info]: Entered received Submission Date: 05/16/2021
+2025-09-03T15:02:33+05:30 [info]: Clicked on broker dd
+2025-09-03T15:02:34+05:30 [info]: Entered broker dropdown
+2025-09-03T15:02:35+05:30 [info]: Clicked on Business Development Executive dropdown
+2025-09-03T15:02:36+05:30 [info]: Entered Business Development Executive
+2025-09-03T15:02:36+05:30 [info]: Clicked on Captive Executive dropdown
+2025-09-03T15:02:37+05:30 [info]: Searched captiveExecutive: Megan Henning
+2025-09-03T15:02:37+05:30 [info]: Clicked on Associate Captive Executive dropdown
+2025-09-03T15:02:38+05:30 [info]: Searched  Associate Captive Executive: Paul Gamperl
+2025-09-03T15:02:38+05:30 [info]: Clicked on Program Coordinator dropdown
+2025-09-03T15:02:39+05:30 [info]: Searched  Program Coordinator: Justin Wiener
+2025-09-03T15:02:39+05:30 [info]: Entered Effective Date:05/06/2021
+2025-09-03T15:02:40+05:30 [info]: Clicked on Line Of Business dropdown
+2025-09-03T15:02:40+05:30 [info]: Selected Line Of Business: Casualty
+2025-09-03T15:02:40+05:30 [info]: Selected 'Yes' in Broker Contract Account dropdown
+2025-09-03T15:02:40+05:30 [info]: Selected coverage option: GL
+2025-09-03T15:02:40+05:30 [info]: Selected coverage option: WC
+2025-09-03T15:02:41+05:30 [info]: Selected coverage option: AL
+2025-09-03T15:02:41+05:30 [info]: Selected coverage option: APD
+2025-09-03T15:02:41+05:30 [info]: Selected Mid Term Deal: Yes
+2025-09-03T15:02:41+05:30 [info]: Clicked on save submission details
+2025-09-03T15:02:41+05:30 [info]: Clicked on profile button
+2025-09-03T15:02:42+05:30 [info]: Clicked on logout option
+2025-09-03T15:55:21+05:30 [info]: Navigate to the SugerCRM URL
+2025-09-03T15:55:23+05:30 [info]: Filled username
+2025-09-03T15:55:23+05:30 [info]: Filled password
+2025-09-03T15:55:24+05:30 [info]: SugarCRM login completed
+2025-09-03T15:55:24+05:30 [info]: Auth state is saved
+2025-09-03T15:55:24+05:30 [info]: Service title is visible
+2025-09-03T15:55:33+05:30 [info]: Expand button clicked
+2025-09-03T15:55:34+05:30 [info]: Hovered on Organizations button
+2025-09-03T15:55:35+05:30 [info]: Clicked on Create organization button
+2025-09-03T15:55:35+05:30 [info]: Entered company name
+2025-09-03T15:55:35+05:30 [info]: Entered additional nameCaptive Resources Pvt Ltd
+2025-09-03T15:55:35+05:30 [info]: Clicked on address tab
+2025-09-03T15:55:36+05:30 [info]: Entered Physical Street
+2025-09-03T15:55:36+05:30 [info]: Entered physical city
+2025-09-03T15:55:36+05:30 [info]: Entered physical state
+2025-09-03T15:55:36+05:30 [info]: Entered physical post
+2025-09-03T15:55:36+05:30 [info]: Clicked on organazation save button
+2025-09-03T15:55:36+05:30 [info]: Entered company name
+2025-09-03T15:55:38+05:30 [info]: Clicked on CaseID: Org_Name_202593_15558
+2025-09-03T15:55:40+05:30 [info]: Hovered on submission Tab
+2025-09-03T15:55:52+05:30 [info]: Clicked on submission add button
+2025-09-03T15:55:53+05:30 [info]: Entered submission name
+2025-09-03T15:55:53+05:30 [info]: Clicked on Captive Name DD
+2025-09-03T15:55:54+05:30 [info]: Entered Captive Name DD
+2025-09-03T15:55:55+05:30 [info]: Clicked on Captive Name DD
+2025-09-03T15:55:56+05:30 [info]: Entered secondary program executive 
+2025-09-03T15:55:57+05:30 [info]: Clicked on Captive Name DD
+2025-09-03T15:55:59+05:30 [info]: Entered program Manager 
+2025-09-03T15:55:59+05:30 [info]: Clicked on Secondary Manager DD
+2025-09-03T15:56:01+05:30 [info]: Entered Secondary Manager
+2025-09-03T15:56:01+05:30 [info]: Entered received Submission Date: 05/16/2021
+2025-09-03T15:56:02+05:30 [info]: Clicked on broker dd
+2025-09-03T15:56:04+05:30 [info]: Entered broker dropdown
+2025-09-03T15:56:04+05:30 [info]: Clicked on Business Development Executive dropdown
+2025-09-03T15:56:06+05:30 [info]: Entered Business Development Executive
+2025-09-03T15:56:06+05:30 [info]: Clicked on Captive Executive dropdown
+2025-09-03T15:56:09+05:30 [info]: Searched captiveExecutive: Megan Henning
+2025-09-03T15:56:09+05:30 [info]: Clicked on Associate Captive Executive dropdown
+2025-09-03T15:56:10+05:30 [info]: Searched  Associate Captive Executive: Paul Gamperl
+2025-09-03T15:56:10+05:30 [info]: Clicked on Program Coordinator dropdown
+2025-09-03T15:56:12+05:30 [info]: Searched  Program Coordinator: Justin Wiener
+2025-09-03T15:56:12+05:30 [info]: Entered Effective Date:05/06/2021
+2025-09-03T15:56:12+05:30 [info]: Clicked on Line Of Business dropdown
+2025-09-03T15:56:12+05:30 [info]: Selected Line Of Business: Casualty
+2025-09-03T15:56:12+05:30 [info]: Selected 'Yes' in Broker Contract Account dropdown
+2025-09-03T15:56:13+05:30 [info]: Selected coverage option: GL
+2025-09-03T15:56:13+05:30 [info]: Selected coverage option: WC
+2025-09-03T15:56:13+05:30 [info]: Selected coverage option: AL
+2025-09-03T15:56:14+05:30 [info]: Selected coverage option: APD
+2025-09-03T15:56:14+05:30 [info]: Selected Mid Term Deal: Yes
+2025-09-03T15:56:14+05:30 [info]: Clicked on save submission details
+2025-09-03T15:56:14+05:30 [info]: Clicked on profile button
+2025-09-03T15:56:14+05:30 [info]: Clicked on logout option

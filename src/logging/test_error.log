@@ -161,3 +161,11 @@ Call log:
 Call log:
 [2m  - waiting for locator('Open') to be visible[22m
 
+2025-08-27T23:59:41+05:30 [error]: Error checking login button: Error: expect.toBeVisible: Error: strict mode violation: getByTitle('SugarCRM') resolved to 2 elements:
+    1) <a rel="tooltip" target="_blank" data-bs-placement="right" title="Go to SugarCRM.com" href="https://www.sugarcrm.com" class="sidebar-nav-item-btn absolute bg-transparent h-full rtl:text-right text-base  w-full">…</a> aka getByRole('link', { name: '' })
+    2) <a href="#Home" title="SugarCRM" class="logo ml-2.5 p-0 max-h-[1.75rem] max-w-[12.5rem]">…</a> aka getByRole('link', { name: 'SugarCRM' })
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('SugarCRM')[22m
+

@@ -9,7 +9,7 @@ export default class CreateOrg {
   private readonly organizationMenuSelector =
     "//button[@aria-label='Organizations menu']//i[@class='sicon sicon-kebab text-white']";
   private readonly organizationCreteSelector = "Create";
-  static companyName: string = `PRCaseID_${getTimeStamp()}`;
+  static companyName: string = `Org_Name_${getTimeStamp()}`;
   private readonly companyNameInputfieldSelector = "Company Name";
   private readonly additionalNameInputfieldSelector = "Additional Names";
   private readonly addressTabSelector = "Address";
@@ -20,29 +20,44 @@ export default class CreateOrg {
   private readonly saveButtonSelector = "Save";
   constructor(private page: Page) {}
   async clickOnExpand() {
-    await this.page
-      .getByRole("button", { name: this.expandButtonSelector })
-      .click({ force: true });
-    await this.page.waitForTimeout(1000);
+    const sideBarMenu = this.page.getByRole("button", {
+      name: this.expandButtonSelector,
+    });
+
+    await this.page.waitForLoadState("networkidle");
+    await this.page.waitForURL(/.*#Home.*/, { timeout: 60000 });
+    // const popupPromise = this.page.waitForEvent("popup");
+    // const popup = await popupPromise;
+    // await popup.waitForLoadState("domcontentloaded");
+    await sideBarMenu.click();
+   // console.log(await popup.title());
     logger.info("Expand button clicked");
   }
 
+  
   async hoverOnOrganizations() {
-    const orgMenu =  this.page
-      .locator(this.organizationButtonSelector)
-      .first();
-    await orgMenu.click({force:true});
+    const orgMenu = this.page.locator(this.organizationButtonSelector).first();
+    await orgMenu.click({ force: true });
     await this.page.waitForTimeout(1000);
     logger.info("Hovered on Organizations button");
   }
-  async clickOnOrganizationsMenu() {
-    const menu =  this.page.locator(this.organizationMenuSelector);
-    await menu.click();
-    await this.page.waitForTimeout(3000);
-    logger.info("Organizations menu clicked");
+async clickOnOrganizationsMenu() {
+  const menu = this.page.locator(this.organizationMenuSelector);
+  const closePopupButtons = this.page.locator("button.close.btn.btn-invisible");
+
+  if ((await closePopupButtons.count()) > 0) {
+    await closePopupButtons.first().click();
+    logger.info("Closed success/warning popup");
+  } else {
+    logger.info("No popup found to close");
   }
+
+  await menu.click({ force: true });
+  await this.page.waitForSelector("text=Organizations", { timeout: 5000 });
+  logger.info("Organizations menu clicked successfully");
+}
   async selectCreateOrganization() {
-    const createBtn =  this.page.getByRole("button", {
+    const createBtn = this.page.getByRole("button", {
       name: "Create",
       exact: true,
     });
@@ -51,7 +66,7 @@ export default class CreateOrg {
     logger.info("Clicked on Create organization button");
   }
   async enterCompanyName() {
-   const orgID= await this.page
+    const orgID = await this.page
       .getByRole("textbox", {
         name: this.companyNameInputfieldSelector,
         exact: true,

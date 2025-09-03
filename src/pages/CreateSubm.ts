@@ -47,15 +47,14 @@ export default class CreateSubmn {
   private readonly midTermDealDD = "//span[@data-fieldname='mid_term_deal_c']";
   private readonly casualtyLineCov =
     "//span[@data-fieldname='casualty_line_c']/child::span/child::div";
-  companyName: string;
+  companyName: string | undefined;
 
   constructor(private page: Page) {}
   async linkSubmission(): Promise<void> {
-    // const submissionCaseLink = this.page.getByRole("link", {
-    //   name: CreateOrg.companyName,
-    // });
-
-    const caseLink = this.page.locator("link", { hasText: /^PRCaseID_/ }).first();
+    const caseLink = this.page.getByRole("link", {
+      name: CreateOrg.companyName,
+    });
+    // const caseLink = this.page.locator("link", { hasText: /^PRCaseID_/ }).first();
     const caseId = await caseLink.textContent();
     await caseLink.waitFor({ state: "visible" });
     await expect(caseLink).toHaveText(CreateOrg.companyName);

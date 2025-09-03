@@ -12,7 +12,7 @@ export default class LoginPage {
   constructor(private page: Page) {}
   
   async navigateToLoginPage() {
-      const URL = await this.page.goto("/");
+      const URL = await this.page.goto("https://sugardev.captiveresources.com/");
     const session = await this.page.context().newCDPSession(this.page);
     await session.send("Browser.getWindowForTarget").then(async (window) => {
       await session.send("Browser.setWindowBounds", {

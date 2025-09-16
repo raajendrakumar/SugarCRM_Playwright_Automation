@@ -37,7 +37,9 @@ export default class CreateOrg {
   
   async hoverOnOrganizations() {
     const orgMenu = this.page.locator(this.organizationButtonSelector).first();
+    await orgMenu.hover();
     await orgMenu.click({ force: true });
+    console.log(await orgMenu.boundingBox());
     await this.page.waitForTimeout(1000);
     logger.info("Hovered on Organizations button");
   }
